@@ -18,7 +18,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [About The Project](#about-the-project)
 - [Key Features](#key-features)
@@ -35,30 +35,30 @@
 
 ---
 
-## 🎯 About The Project
+##  About The Project
 
 DUPLOX is a modern, high-performance portfolio website built for a creative and media agency that delivers measurable results. The platform showcases services, case studies, team expertise, and client success stories with a focus on conversion optimization.
 
 ### Why DUPLOX?
 
-- 🚀 **Performance First**: Optimized for speed with 1-3 second load times
-- 📱 **Mobile Ready**: Fully responsive design that works on all devices
-- 🎨 **Modern Design**: Clean, bold aesthetics with smooth animations
-- ♿ **Accessible**: WCAG AA compliant with keyboard navigation support
-- 🔍 **SEO Optimized**: Built-in meta tags, OpenGraph, and semantic HTML
-- 📊 **Data-Driven**: Designed to convert visitors into clients
+-  **Performance First**: Optimized for speed with 1-3 second load times
+-  **Mobile Ready**: Fully responsive design that works on all devices
+-  **Modern Design**: Clean, bold aesthetics with smooth animations
+-  **Accessible**: WCAG AA compliant with keyboard navigation support
+-  **SEO Optimized**: Built-in meta tags, OpenGraph, and semantic HTML
+-  **Data-Driven**: Designed to convert visitors into clients
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🎨 Design & UX
+### Design & UX
 - **Modern Interface** with gradient accents and smooth transitions
 - **Animated Components** powered by Framer Motion
 - **Custom UI Library** based on Radix UI primitives
 - **Dark Mode Ready** design system (optional)
 
-### 📄 Pages & Sections
+### Pages & Sections
 - **Home**: Hero, Services Overview, Process, Featured Work, Clients, CTA
 - **Services**: Comprehensive service offerings (Social, Ads, Shopify)
 - **Work**: Filterable case studies with metrics
@@ -66,7 +66,7 @@ DUPLOX is a modern, high-performance portfolio website built for a creative and 
 - **Contact**: Multi-channel contact form with validation
 - **Pricing**: Transparent pricing tiers
 
-### 🛠️ Technical Features
+### Technical Features
 - **Server-Side Rendering** with Next.js App Router
 - **Image Optimization** with automatic WebP/AVIF conversion
 - **Code Splitting** for optimal bundle sizes
@@ -76,7 +76,7 @@ DUPLOX is a modern, high-performance portfolio website built for a creative and 
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### Core
 - **[Next.js 16.1.1](https://nextjs.org/)** - React framework with Turbopack
@@ -98,27 +98,6 @@ DUPLOX is a modern, high-performance portfolio website built for a creative and 
 - **PostCSS** - CSS processing
 - **Git** - Version control
 
----
-
-## ⚡ Performance
-
-### Optimization Techniques Applied
-
-✅ **Reduced Animation Overhead**: Minimized Framer Motion animations from 50+ to essential interactions only  
-✅ **Image Priority Loading**: Above-the-fold images load first with `priority` flag  
-✅ **Package Optimization**: Configured Next.js to optimize `framer-motion` and `lucide-react` imports  
-✅ **Static Generation**: Pre-rendered pages at build time for instant loading  
-✅ **Code Splitting**: Automatic route-based code splitting  
-
-### Metrics
-- **First Contentful Paint**: < 1.2s
-- **Time to Interactive**: < 3s
-- **Lighthouse Score**: 95+ (Performance)
-- **Bundle Size**: Optimized with tree-shaking
-
-**Previous Load Times**: 2-8 minutes ❌  
-**Current Load Times**: 1-3 seconds ✅  
-**Performance Improvement**: ~99% faster! 🚀
 
 ---
 
